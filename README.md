@@ -20,4 +20,4 @@ Learn to use Spark by analyzing yelp data set.
 ```
 
 ## Data Load and Preview
-![Data Preview](DataPreview.ipynb)
+[Data Preview](DataPreview.ipynb)
